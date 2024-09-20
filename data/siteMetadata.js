@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'A blog created by Trustchain lab',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://blog.trustchain.info',
   siteRepo: '-',
   siteLogo: `/static/images/logo.png`,
   siteIcon: `/static/images/logo.png`,
@@ -51,7 +51,8 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus, beehive
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    // provider: 'buttondown',
+    provider: '',
   },
   comments: {
     // If you want to use an analytics provider you have to add it to the
