@@ -1,7 +1,7 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'Trustchain Blog',
-  author: 'Trustchain lab',
+  author: 'Trustchain',
   headerTitle: 'Trustchain lab',
   description: 'A blog created by Trustchain lab',
   language: 'en-us',
