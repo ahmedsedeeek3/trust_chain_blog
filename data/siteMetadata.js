@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'Trustchain Blog',
   author: 'Trustchain lab',
-  headerTitle: 'Trustchain',
+  headerTitle: 'Trustchain lab',
   description: 'A blog created by Trustchain lab',
   language: 'en-us',
   theme: 'system', // system, dark or light
